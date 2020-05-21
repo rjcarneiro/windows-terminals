@@ -24,3 +24,10 @@
 
 > Details: [Hackerman](hackerman.md)  
 > Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/
+
+## Aperture Science
+
+![Aperture Science](images/PlL8Zhx.png)
+
+> Details: [Aperture Science](Aperture-Science.md)  
+> Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/frbtg2k
