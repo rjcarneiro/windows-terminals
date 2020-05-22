@@ -54,3 +54,10 @@ Here you can find a list of themes, how they look like and you have a small link
 
 > Details: [Aperture Science](Aperture-Science.md)  
 > Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/frbtg2k
+
+### Detroit Become Human
+
+![Detroit Become Human](images/Hihf1pU.png)
+
+> Details: [Detroit Become Human](detroit-become-human.md)  
+> Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/fres7dx/?utm_source=share&utm_medium=web2x
