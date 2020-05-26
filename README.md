@@ -38,33 +38,41 @@ Here you can find a list of themes, how they look like and you have a small link
 
 ![Kayla Cinnamon on MSBuild](images/1.png)
 
-> Details: [Kayla Cinnamon on MSBuild](kayla-cinnamon-on-msbuild.md)  
+> Details: [Kayla Cinnamon on MSBuild](kayla-cinnamon-on-msbuild.md)
 > Reference: https://twitter.com/cinnamon_msft/status/1263447505636753408
 
 ### Hackerman
 
 ![Hackerman](images/erzx78vez1051.png)
 
-> Details: [Hackerman](hackerman.md)  
+> Details: [Hackerman](hackerman.md)
 > Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/
 
 ### Aperture Science
 
 ![Aperture Science](images/PlL8Zhx.png)
 
-> Details: [Aperture Science](Aperture-Science.md)  
+> Details: [Aperture Science](Aperture-Science.md)
 > Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/frbtg2k
 
 ### Detroit Become Human
 
 ![Detroit Become Human](images/Hihf1pU.png)
 
-> Details: [Detroit Become Human](detroit-become-human.md)  
+> Details: [Detroit Become Human](detroit-become-human.md)
 > Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/fres7dx/
 
 ### Dark+
 
 ![Dark+](images/zaptgahdzp051.png)
 
-> Details: [Dark+](dark-plus.md)  
+> Details: [Dark+](dark-plus.md)
 > Reference: https://www.reddit.com/r/Windows10/comments/gpqbk7/vscodes_theme_dark_is_absolutely_gorgeous/
+
+### Nord
+
+![Nord](images/nord_terminal_theme.png)
+
+> Details: [Nord](nord.md)
+> Reference: https://github.com/arcticicestudio/nord/issues/123
+
