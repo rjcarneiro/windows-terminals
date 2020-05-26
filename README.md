@@ -1,6 +1,6 @@
 # Windows Terminals
 
-This repository is ment to agregate some of the best Windows Terminals themes there are around there, with all the definitions and color schemas. Feel free to create a new pull request with your favourite theme.
+This repository is meant to aggregate some of the best Windows Terminal themes, with all their definitions and color schemes. Feel free to create a new pull request with your favorite theme.
 
 ## Inspiration:
 
@@ -22,7 +22,7 @@ If you ever find reference to `ms-appdata:///roaming` for Windows Terminal, that
 
 You can try this out by hit Win+R following the path above. This will be the local user roaming data for Windows Terminal.
 
-I'll try to agregate the fonts as much as possible in the [fonts](fonts/) folder.
+I'll try to aggregate the fonts as much as possible in the [fonts](fonts/) folder.
 
 ## Themes
 
