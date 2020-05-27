@@ -68,7 +68,7 @@ Here you can find a list of themes, how they look like and you have a small link
 ![Dark+](images/zaptgahdzp051.png)
 
 > Details: [Dark+](dark-plus.md)  
-> Reference: https://www.reddit.com/r/Windows10/comments/gpqbk7/vscodes_theme_dark_is_absolutely_gorgeous/  
+> Reference: https://www.reddit.com/r/Windows10/comments/gpqbk7/vscodes_theme_dark_is_absolutely_gorgeous/
 
 ### Nord
 
@@ -76,3 +76,10 @@ Here you can find a list of themes, how they look like and you have a small link
 
 > Details: [Nord](nord.md)  
 > Reference: https://github.com/arcticicestudio/nord/issues/123  
+
+### Dracula
+
+![Dracula](images/dracula.png)
+
+> Details: [Dracula](dracula.md)  
+> Reference: https://draculatheme.com/windows-terminal  
