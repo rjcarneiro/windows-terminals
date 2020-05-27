@@ -68,3 +68,12 @@ Here you can find a list of themes, how they look like and you have a small link
 
 > Details: [Dark+](dark-plus.md)  
 > Reference: https://www.reddit.com/r/Windows10/comments/gpqbk7/vscodes_theme_dark_is_absolutely_gorgeous/
+> Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/fres7dx/?utm_source=share&utm_medium=web2x
+
+
+### Dracula
+
+![Dracula](images/dracula.png)
+
+> Details: [Dracula](dracula.md)  
+> Reference: https://draculatheme.com/windows-terminal
