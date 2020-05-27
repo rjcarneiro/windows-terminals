@@ -42,5 +42,4 @@ n/a
     "white": "#e5e9f0",
     "yellow": "#ebcb8b"
 }
-
 ```
