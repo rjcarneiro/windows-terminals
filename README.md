@@ -11,6 +11,7 @@ This amazing [Reddit thread](https://www.reddit.com/r/Windows10/comments/gnqw1y/
 - [Oh my posh](https://github.com/JanDeDobbeleer/oh-my-posh)
 - [Cascadia Code Font](https://docs.microsoft.com/en-us/windows/terminal/cascadia-code)
 - [Scott Hanselman tutorial](https://www.hanselman.com/blog/HowToMakeAPrettyPromptInWindowsTerminalWithPowerlineNerdFontsCascadiaCodeWSLAndOhmyposh.aspx)
+- [Nerd fonts](https://github.com/ryanoasis/nerd-fonts/)
 
 ## Notes
 
@@ -32,35 +33,35 @@ Here you can find a list of themes, how they look like and you have a small link
 
 ![Middle Machine](images/middle-machine.png)
 
-> Details: [Middle-Machine](Middle-Machine.md)
+> Details: [Middle-Machine](Middle-Machine.md)  
 
 ### Kayla Cinnamon on MSBuild
 
 ![Kayla Cinnamon on MSBuild](images/1.png)
 
 > Details: [Kayla Cinnamon on MSBuild](kayla-cinnamon-on-msbuild.md)  
-> Reference: https://twitter.com/cinnamon_msft/status/1263447505636753408
+> Reference: https://twitter.com/cinnamon_msft/status/1263447505636753408  
 
 ### Hackerman
 
 ![Hackerman](images/erzx78vez1051.png)
 
 > Details: [Hackerman](hackerman.md)  
-> Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/
+> Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/  
 
 ### Aperture Science
 
 ![Aperture Science](images/PlL8Zhx.png)
 
 > Details: [Aperture Science](Aperture-Science.md)  
-> Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/frbtg2k
+> Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/frbtg2k  
 
 ### Detroit Become Human
 
 ![Detroit Become Human](images/Hihf1pU.png)
 
 > Details: [Detroit Become Human](detroit-become-human.md)  
-> Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/fres7dx/
+> Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/fres7dx/  
 
 ### Dark+
 
@@ -68,12 +69,17 @@ Here you can find a list of themes, how they look like and you have a small link
 
 > Details: [Dark+](dark-plus.md)  
 > Reference: https://www.reddit.com/r/Windows10/comments/gpqbk7/vscodes_theme_dark_is_absolutely_gorgeous/
-> Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/fres7dx/?utm_source=share&utm_medium=web2x
 
+### Nord
+
+![Nord](images/nord_terminal_theme.png)
+
+> Details: [Nord](nord.md)  
+> Reference: https://github.com/arcticicestudio/nord/issues/123  
 
 ### Dracula
 
 ![Dracula](images/dracula.png)
 
 > Details: [Dracula](dracula.md)  
-> Reference: https://draculatheme.com/windows-terminal
+> Reference: https://draculatheme.com/windows-terminal  
