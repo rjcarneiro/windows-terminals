@@ -4,17 +4,11 @@
 ![AyuDark](images/AyuDark.png)
 ![AyuLight](images/AyuLight.png)
 
-## Credit
-
-[Theme: Ayu Theme](https://github.com/ayu-theme)
-
-[Scheme creator: joshtynjala](https://gist.github.com/joshtynjala/10dbdd4e449027fe9723b1d9f553c0bd)
-
 ## Settings
 
 ```json
 {
-    "colorScheme": "AyuMirage"
+    "colorScheme": "Ayu Mirage"
 }
 ```
 
