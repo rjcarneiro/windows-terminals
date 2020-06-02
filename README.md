@@ -90,3 +90,9 @@ Here you can find a list of themes, how they look like and you have a small link
 
 > Details: [Ayu](ayu.md)  
 > Reference: https://gist.github.com/joshtynjala/10dbdd4e449027fe9723b1d9f553c0bd
+
+### Beaufort
+
+![Beaufort](images/beaufort_preview.png)
+
+> Details: [Beaufort](beaufort.md)
