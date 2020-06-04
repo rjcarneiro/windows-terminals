@@ -8,7 +8,6 @@ An uncluttered dark theme that borrows the
 
 ```json
 {
-    // PowerShell Beaufort profile
     "hidden": false,
     "name": "Beaufort",
     "tabTitle": "Your Tab Title",
@@ -16,7 +15,7 @@ An uncluttered dark theme that borrows the
     "padding": "16, 16, 16, 16",
     "colorScheme": "Beaufort",
     "useAcrylic": true,
-    "acrylicOpacity": 0.7
+    "acrylicOpacity": 0.7,
     "backgroundImage": "ms-appdata:///roaming/beaufort.jpg",
     "backgroundImageOpacity": 0.4,
 }
@@ -34,7 +33,6 @@ An uncluttered dark theme that borrows the
 
 ```json
 {
-    // PowerShell Beaufort scheme
     "name": "Beaufort",
     "foreground": "#f1f1f1",
     "background": "#131f2c",
