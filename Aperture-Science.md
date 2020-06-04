@@ -16,7 +16,9 @@
 "cursorColor" : "#A66900",
 "experimental.retroTerminalEffect": true,
 "acrylicOpacity": 0.8,
-"backgroundImageOpacity": 0.8
+"backgroundImageOpacity": 0.8,
+"backgroundImageAlignment": "bottomRight",
+"backgroundImageStretchMode": "none"
 }
 ```
 
