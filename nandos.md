@@ -10,11 +10,11 @@
   "commandline": "powershell.exe",
   "colorScheme": "Nandos",
 
-  "backgroundImage": "C:/Users/jackg/Documents/Jack Gong/Terminal Backgrounds/nandos.png",
+  "backgroundImage": "images/nandos.png",
   "backgroundImageStretchMode": "none",
   "backgroundImageAlignment": "bottomRight",
 
-  "icon": "C:/Users/jackg/Documents/Jack Gong/Terminal Backgrounds/drumstick.png",
+  "icon": "images/drumstick.png",
 
   "hidden": false
 }
@@ -61,4 +61,15 @@
   "brightCyan": "#61D6D6",
   "brightWhite": "#F2F2F2"
 }
+```
+
+## $PROFILE
+
+```
+Write-Host " _____          _     _____          _"
+Write-Host "|  __ \        (_)   |  __ \        (_)"
+Write-Host "| |__) |__ _ __ _    | |__) |__ _ __ _"
+Write-Host "|  ___/ _ \ '__| |   |  ___/ _ \ '__| |"
+Write-Host "| |  |  __/ |  | |   | |  |  __/ |  | |"
+Write-Host "|_|   \___|_|  |_|   |_|   \___|_|  |_|"
 ```
