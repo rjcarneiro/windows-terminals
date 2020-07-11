@@ -10,7 +10,7 @@
   "commandline": "powershell.exe",
   "colorScheme": "Nandos",
 
-  "backgroundImage": "images/nandos.png",
+  "backgroundImage": "images/nandos-logo.png",
   "backgroundImageStretchMode": "none",
   "backgroundImageAlignment": "bottomRight",
 
