@@ -82,7 +82,7 @@ Here you can find a list of themes, how they look like and you have a small link
 ![Dracula](images/dracula.png)
 
 > Details: [Dracula](dracula.md)  
-> Reference: https://draculatheme.com/windows-terminal 
+> Reference: https://draculatheme.com/windows-terminal
 
 ### Ayu
 
@@ -96,3 +96,10 @@ Here you can find a list of themes, how they look like and you have a small link
 ![Beaufort](images/beaufort_preview.png)
 
 > Details: [Beaufort](beaufort.md)
+
+### Nando's
+
+![Nando's](images/nandos.png)
+
+> Details: [Nando's](nandos.md)  
+> Reference: https://github.com/AwesomeJackify/Nandos-Terminal-Theme
