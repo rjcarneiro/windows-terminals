@@ -49,13 +49,6 @@ Here you can find a list of themes, how they look like and you have a small link
 > Details: [Hackerman](hackerman.md)  
 > Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/  
 
-### Nando's
-
-![Nando's](images/nandos.png)
-
-> Details: [Nando's](nandos.md)  
-> Reference: https://github.com/AwesomeJackify/Nandos-Terminal-Theme
-
 ### Aperture Science
 
 ![Aperture Science](images/PlL8Zhx.png)
@@ -103,3 +96,10 @@ Here you can find a list of themes, how they look like and you have a small link
 ![Beaufort](images/beaufort_preview.png)
 
 > Details: [Beaufort](beaufort.md)
+
+### Nando's
+
+![Nando's](images/nandos.png)
+
+> Details: [Nando's](nandos.md)  
+> Reference: https://github.com/AwesomeJackify/Nandos-Terminal-Theme
