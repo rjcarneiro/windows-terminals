@@ -12,6 +12,7 @@
 "tabTitle": "Aperture science",
 "colorScheme" : "aptscience",
 "backgroundImage": "ms-appdata:///roaming/Aperture Science-txt-smallened.png",
+"icon": "https://www.kindpng.com/picc/m/235-2355356_aperture-science-icon-png-transparent-png.png",
 "cursorShape": "filledBox",
 "cursorColor" : "#A66900",
 "experimental.retroTerminalEffect": true,
