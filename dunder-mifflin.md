@@ -18,6 +18,7 @@
 	"backgroundImageAlignment": "center",
 	"startingDirectory": "%USERPROFILE%",
 	"backgroundImageStretchMode": "none"
+}
 ```
 
 ## Fonts
