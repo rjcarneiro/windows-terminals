@@ -5,19 +5,19 @@
 ## Settings
 
 ```json
-
-"name": "Dunder Mifflin Inc.",
-"hidden": false,
-"tabTitle": "Dunder Mifflin Inc.",
-"colorScheme" : "dunderMifflin",
-"backgroundImage": "https://preview.redd.it/tunka0tamhl11.png?width=1024&format=png&auto=webp&s=1d2737cc75cc497b384f0562716061387d65b9d3",
-"icon": "https://kenton.co.za/wp-content/uploads/2017/10/dm-icon-large.png",
-"cursorShape": "bar",
-"cursorColor" : "#fff",
-"backgroundImageOpacity": 0.3,
-"backgroundImageAlignment": "center",
-"startingDirectory": "%USERPROFILE%",
-"backgroundImageStretchMode": "none"
+{
+	"name": "Dunder Mifflin Inc.",
+	"hidden": false,
+	"tabTitle": "Dunder Mifflin Inc.",
+	"colorScheme" : "dunderMifflin",
+	"backgroundImage": "ms-appdata:///roaming/dunder-mifflin-background.png",
+	"icon": "ms-appdata:///roaming/dunder-mifflin-icon.png",
+	"cursorShape": "bar",
+	"cursorColor" : "#fff",
+	"backgroundImageOpacity": 0.3,
+	"backgroundImageAlignment": "center",
+	"startingDirectory": "%USERPROFILE%",
+	"backgroundImageStretchMode": "none"
 ```
 
 ## Fonts
