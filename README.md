@@ -103,3 +103,10 @@ Here you can find a list of themes, how they look like and you have a small link
 
 > Details: [Nando's](nandos.md)  
 > Reference: https://github.com/AwesomeJackify/Nandos-Terminal-Theme
+
+### Dunder Mifflin Inc.
+
+![Dunder Mifflin](images/dunder-mifflin.png)
+
+> Details: [Dunder Mifflin](dunder-mifflin.md)  
+> Reference: https://github.com/Archerymaister/windows-terminals
