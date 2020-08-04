@@ -37,7 +37,7 @@ n/a
 ```json
 {
     	"name": "dunderMifflin",
-			"background": "#95a9cf",
-			"foreground": "#fff",
+	"background": "#95a9cf",
+	"foreground": "#fff",
 }
 ```
