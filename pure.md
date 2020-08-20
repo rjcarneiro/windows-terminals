@@ -2,7 +2,7 @@
 
 ![Pure](images/pure.png)
 
-### Settings
+## Settings
 
 ```json
 {
