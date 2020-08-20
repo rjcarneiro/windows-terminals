@@ -1,12 +1,20 @@
 # Pure
 
-### Theme setup
-
-- Zsh shell
-- oh-my-zsh with pure theme
-- Terminal with Atom color scheme
-
 ![Pure](images/pure.png)
+
+### Settings
+
+```json
+{
+  "hidden": false,
+  "name": "Ubuntu-20.04",
+  "colorScheme": "Atom",
+  "source": "Windows.Terminal.Wsl",
+  "fontFace": "Cascadia Code",
+  "cursorShape": "filledBox",
+  "icon": "C:\\Program Files\\Git\\mingw64\\share\\git\\ubuntu.ico"
+}
+```
 
 ## Fonts
 
@@ -15,6 +23,10 @@
 ## Background
 
 N/A
+
+## Icon
+
+![Ubuntu](images/ubuntu.ico)
 
 ## Color Scheme
 
