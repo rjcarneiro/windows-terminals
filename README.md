@@ -116,3 +116,10 @@ Here you can find a list of themes, how they look like and you have a small link
 ![Pure](images/pure-2.png)
 
 > Details: [Pure](pure.md)
+
+
+### Plain Powershell
+
+![PPowershel](images/PPowershell.png)
+
+> Details: [PPowerhsell](PPowerhsell.md)
