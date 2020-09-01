@@ -118,7 +118,7 @@ Here you can find a list of themes, how they look like and you have a small link
 > Details: [Pure](pure.md)
 
 
-### Plain Powershell
+### Plain Powershell | Less is more
 
 ![PPowershel](images/PPowershell.png)
 
