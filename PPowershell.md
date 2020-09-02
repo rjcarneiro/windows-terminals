@@ -49,5 +49,3 @@ You don't need one, very subtle acrylic (.95 opacity) blends the best with any b
     "brightWhite": "#F2F2F2"
 }
 ```
-
-### Tip: Use the [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) with the Agnoster theme to get the best experience.
