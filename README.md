@@ -122,3 +122,9 @@ Here you can find a list of themes, how they look like and you have a small link
 ![PPowershel](images/PPowershell.png)
 
 > Details: [Plain Powershell](PPowershell.md)
+
+### Argonaut
+
+![Argonaut](images/Argonaut.png)
+
+> Details: [Argonaut](Argonaut.md)
