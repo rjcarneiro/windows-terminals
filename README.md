@@ -128,3 +128,9 @@ Here you can find a list of themes, how they look like and you have a small link
 ![Argonaut](images/Argonaut.png)
 
 > Details: [Argonaut](Argonaut.md)
+
+### Star Wars
+
+![Star Wars](images/star-wars.png)
+
+> Details: [Star Wars](star-wars.md)
