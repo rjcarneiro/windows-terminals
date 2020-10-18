@@ -39,7 +39,7 @@ Here you can find a list of themes, how they look like and you have a small link
 
 ![Kayla Cinnamon on MSBuild](images/1.png)
 
-> Details: [Kayla Cinnamon on MSBuild](kayla-cinnamon-on-msbuild.md)  
+> Details: [Kayla Cinnamon on MSBuild](themes/kayla-cinnamon-on-msbuild.md)  
 > Reference: https://twitter.com/cinnamon_msft/status/1263447505636753408
 
 ### Hackerman
