@@ -1,6 +1,6 @@
 # Nord
 
-![Dark+](images/nord_terminal_theme.png)
+![Dark+](../images/nord_terminal_theme.png)
 
 ## Settings
 

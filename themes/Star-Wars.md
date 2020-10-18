@@ -1,6 +1,6 @@
 # Star Wars
 
-![Star Wars](images/star-wars.png)
+![Star Wars](../images/star-wars.png)
 
 ## Settings
 
@@ -23,7 +23,7 @@
 
 ## Background
 
-![Star Wars](images/star-wars-background.jpg)
+![Star Wars](../images/star-wars-background.jpg)
 
 ## Color Scheme
 

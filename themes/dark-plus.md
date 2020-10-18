@@ -1,6 +1,6 @@
 # Dark+
 
-![Dark+](images/zaptgahdzp051.png)
+![Dark+](../images/zaptgahdzp051.png)
 
 ## Settings
 

@@ -1,6 +1,6 @@
 # Argonaut
 
-![Argonaut](images/Argonaut.png)
+![Argonaut](../images/Argonaut.png)
 
 ## Settings
 

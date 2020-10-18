@@ -1,6 +1,6 @@
 # Dunder Mifflin Inc.
 
-![Dunder Mifflin Inc.](images/dunder-mifflin.png)
+![Dunder Mifflin Inc.](../images/dunder-mifflin.png)
 
 ## Settings
 
@@ -27,11 +27,11 @@ n/a
 
 ## Background
 
-![Dunder Mifflin Inc.](images/dunder-mifflin-background.png)
+![Dunder Mifflin Inc.](../images/dunder-mifflin-background.png)
 
 ## Icon
 
-![Dunder Mifflin Inc.](images/dunder-mifflin-icon.png)
+![Dunder Mifflin Inc.](../images/dunder-mifflin-icon.png)
 
 ## Color Scheme
 

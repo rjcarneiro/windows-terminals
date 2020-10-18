@@ -1,8 +1,8 @@
 # Ayu Themes
 
-![AyuMirage](images/AyuMirage.png)
-![AyuDark](images/AyuDark.png)
-![AyuLight](images/AyuLight.png)
+![AyuMirage](../images/AyuMirage.png)
+![AyuDark](../images/AyuDark.png)
+![AyuLight](../images/AyuLight.png)
 
 ## Settings
 

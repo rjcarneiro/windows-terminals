@@ -1,6 +1,6 @@
 # Detroit Become Human
 
-![Detroit Become Human](images/Hihf1pU.png)
+![Detroit Become Human](../images/Hihf1pU.png)
 
 ## Settings
 
@@ -26,11 +26,11 @@ n/a
 
 ## Background
 
-![Detroit Become Human](images/BZMyy75.png)
+![Detroit Become Human](../images/BZMyy75.png)
 
-![Detroit Become Human](images/1Li2BN5.png)
+![Detroit Become Human](../images/1Li2BN5.png)
 
-![Detroit Become Human](images/q96qqlX.png)
+![Detroit Become Human](../images/q96qqlX.png)
 
 ## Color Scheme
 

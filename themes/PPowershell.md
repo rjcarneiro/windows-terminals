@@ -1,6 +1,6 @@
 # Plain Powershell | Less is more
 
-![PPowershell](images/PPowershell.png)
+![PPowershell](../images/PPowershell.png)
 
 ## Settings
 ```json

@@ -1,6 +1,6 @@
 # Kayla Cinnamon on MSBuild
 
-![Kayla Cinnamon on MSBuild](images/1.png)
+![Kayla Cinnamon on MSBuild](../images/1.png)
 
 ## Settings
 
@@ -19,7 +19,7 @@
 
 ## Background
 
-![Kayla Cinnamon on MSBuild](images/1.jfif)
+![Kayla Cinnamon on MSBuild](../images/1.jfif)
 
 ## Color Scheme
 
