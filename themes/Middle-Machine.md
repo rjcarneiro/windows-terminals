@@ -1,6 +1,6 @@
 # Middle Machine
 
-![Middle Machine](images/middle-machine.png)
+![Middle Machine](../images/middle-machine.png)
 
 ## Settings
 
@@ -18,7 +18,7 @@
 
 ## Background
 
-![Middle Machine](images/middle-machine-bg.jpg)
+![Middle Machine](../images/middle-machine-bg.jpg)
 
 ## Color Scheme
 

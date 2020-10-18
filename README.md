@@ -33,7 +33,7 @@ Here you can find a list of themes, how they look like and you have a small link
 
 ![Middle Machine](images/middle-machine.png)
 
-> Details: [Middle-Machine](Middle-Machine.md)
+> Details: [Middle-Machine](themes/Middle-Machine.md)
 
 ### Kayla Cinnamon on MSBuild
 
@@ -46,91 +46,91 @@ Here you can find a list of themes, how they look like and you have a small link
 
 ![Hackerman](images/erzx78vez1051.png)
 
-> Details: [Hackerman](hackerman.md)  
+> Details: [Hackerman](themes/hackerman.md)  
 > Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/
 
 ### Aperture Science
 
 ![Aperture Science](images/PlL8Zhx.png)
 
-> Details: [Aperture Science](Aperture-Science.md)  
+> Details: [Aperture Science](themes/Aperture-Science.md)  
 > Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/frbtg2k
 
 ### Detroit Become Human
 
 ![Detroit Become Human](images/Hihf1pU.png)
 
-> Details: [Detroit Become Human](detroit-become-human.md)  
+> Details: [Detroit Become Human](themes/detroit-become-human.md)  
 > Reference: https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/fres7dx/
 
 ### Dark+
 
 ![Dark+](images/zaptgahdzp051.png)
 
-> Details: [Dark+](dark-plus.md)  
+> Details: [Dark+](themes/dark-plus.md)  
 > Reference: https://www.reddit.com/r/Windows10/comments/gpqbk7/vscodes_theme_dark_is_absolutely_gorgeous/
 
 ### Nord
 
 ![Nord](images/nord_terminal_theme.png)
 
-> Details: [Nord](nord.md)  
+> Details: [Nord](themes/nord.md)  
 > Reference: https://github.com/arcticicestudio/nord/issues/123
 
 ### Dracula
 
 ![Dracula](images/dracula.png)
 
-> Details: [Dracula](dracula.md)  
+> Details: [Dracula](themes/dracula.md)  
 > Reference: https://draculatheme.com/windows-terminal
 
 ### Ayu
 
 ![Ayu](images/AyuMirage.png)
 
-> Details: [Ayu](ayu.md)  
+> Details: [Ayu](themes/ayu.md)  
 > Reference: https://gist.github.com/joshtynjala/10dbdd4e449027fe9723b1d9f553c0bd
 
 ### Beaufort
 
 ![Beaufort](images/beaufort_preview.png)
 
-> Details: [Beaufort](beaufort.md)
+> Details: [Beaufort](themes/beaufort.md)
 
 ### Nando's
 
 ![Nando's](images/nandos.png)
 
-> Details: [Nando's](nandos.md)  
+> Details: [Nando's](themes/nandos.md)  
 > Reference: https://github.com/AwesomeJackify/Nandos-Terminal-Theme
 
 ### Dunder Mifflin Inc.
 
 ![Dunder Mifflin](images/dunder-mifflin.png)
 
-> Details: [Dunder Mifflin](dunder-mifflin.md)  
+> Details: [Dunder Mifflin](themes/dunder-mifflin.md)  
 > Reference: https://github.com/Archerymaister/windows-terminals
 
 ### Pure
 
 ![Pure](images/pure-2.png)
 
-> Details: [Pure](pure.md)
+> Details: [Pure](themes/pure.md)
 
 ### Plain Powershell | Less is more
 
 ![PPowershel](images/PPowershell.png)
 
-> Details: [Plain Powershell](PPowershell.md)
+> Details: [Plain Powershell](themes/PPowershell.md)
 
 ### Argonaut
 
 ![Argonaut](images/Argonaut.png)
 
-> Details: [Argonaut](Argonaut.md)
+> Details: [Argonaut](themes/Argonaut.md)
 
 ### Star Wars
 
 ![Star Wars](images/star-wars.png)
 
-> Details: [Star Wars](star-wars.md)
+> Details: [Star Wars](themes/star-wars.md)

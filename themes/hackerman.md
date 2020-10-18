@@ -1,6 +1,6 @@
 # Hackerman
 
-![Hackerman](images/erzx78vez1051.png)
+![Hackerman](../images/erzx78vez1051.png)
 
 ## Settings
 
@@ -23,7 +23,7 @@ n/a
 
 ## Background
 
-![Hackerman](images/xNmzL9d.png)
+![Hackerman](../images/xNmzL9d.png)
 
 ## Color Scheme
 

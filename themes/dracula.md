@@ -1,6 +1,6 @@
 # Dracula
 
-![Dracula](images/dracula.png)
+![Dracula](../images/dracula.png)
 
 > Reference: https://draculatheme.com/windows-terminal
 

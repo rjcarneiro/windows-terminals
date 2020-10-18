@@ -1,6 +1,6 @@
 # Nandos
 
-![Nando's](images/nandos.png)
+![Nando's](../images/nandos.png)
 
 ## Settings
 
@@ -27,7 +27,7 @@
 
 ## Background
 
-![Nando's](images/nandos-logo.png)
+![Nando's](../images/nandos-logo.png)
 
 ## Color Scheme
 

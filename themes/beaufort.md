@@ -2,7 +2,7 @@
 
 An uncluttered dark theme that borrows the 
 
-![Beaufort](images/beaufort_preview.png)
+![Beaufort](../images/beaufort_preview.png)
 
 ## Settings
 
@@ -27,7 +27,7 @@ An uncluttered dark theme that borrows the
 
 ## Background
 
-![Beaufort](images/beaufort.jpg)
+![Beaufort](../images/beaufort.jpg)
 
 ## Color Scheme
 

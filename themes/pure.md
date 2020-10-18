@@ -1,6 +1,6 @@
 # Pure
 
-![Pure](images/pure.png)
+![Pure](../images/pure.png)
 
 ## Settings
 
@@ -22,11 +22,11 @@
 
 ## Background
 
-N/A
+n/a
 
 ## Icon
 
-![Ubuntu](images/ubuntu.ico)
+![Ubuntu](../images/ubuntu.ico)
 
 ## Color Scheme
 
