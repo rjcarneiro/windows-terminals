@@ -134,3 +134,11 @@ Here you can find a list of themes, how they look like and you have a small link
 ![Star Wars](images/star-wars.png)
 
 > Details: [Star Wars](themes/star-wars.md)
+
+
+### retrowave
+
+![retrowave](images/retrowave.png)
+
+> Details: [retrowave](themes/retrowave.md)  
+> Reference: https://blog.netnerds.net/2020/07/my-windows-terminal-retro-theme/
