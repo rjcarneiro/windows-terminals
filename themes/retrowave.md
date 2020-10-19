@@ -1,6 +1,6 @@
 # retrowave
 
-![retrowave](../images/retro_theme.png)
+![retrowave](../images/retrowave.png)
 
 > Reference: https://blog.netnerds.net/2020/07/my-windows-terminal-retro-theme/
 
@@ -8,7 +8,7 @@
 
 ```json
 {
-    "colorScheme": "retrowave",
+    "colorScheme": "retrowave"
 }
 ```
 
