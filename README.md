@@ -2,9 +2,9 @@
 
 This repository is meant to aggregate some of the best Windows Terminal themes, with all their definitions and color schemes. Feel free to create a new pull request with your favorite theme.
 
-## Inspiration:
+## Motivation
 
-This amazing [Reddit thread](https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/) gave me the inspitation to compile these beautiful themes.
+This amazing [Reddit thread](https://www.reddit.com/r/Windows10/comments/gnqw1y/can_we_show_off_our_new_terminals/) gave me the inspiration to compile these beautiful themes.
 
 ## Resources
 
@@ -15,7 +15,7 @@ This amazing [Reddit thread](https://www.reddit.com/r/Windows10/comments/gnqw1y/
 
 ## Notes
 
-If you ever find reference to `ms-appdata:///roaming` for Windows Terminal, that's transalated into:
+If you ever find reference to `ms-appdata:///roaming` for Windows Terminal, that's translated into:
 
 ```shell
 %LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState
@@ -104,7 +104,7 @@ Here you can find a list of themes, how they look like and you have a small link
 > Details: [Nando's](themes/nandos.md)  
 > Reference: https://github.com/AwesomeJackify/Nandos-Terminal-Theme
 
-### Dunder Mifflin Inc.
+### Dunder Mifflin Inc
 
 ![Dunder Mifflin](images/dunder-mifflin.png)
 
@@ -134,7 +134,6 @@ Here you can find a list of themes, how they look like and you have a small link
 ![Star Wars](images/star-wars.png)
 
 > Details: [Star Wars](themes/star-wars.md)
-
 
 ### retrowave
 
