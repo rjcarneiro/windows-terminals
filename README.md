@@ -133,7 +133,7 @@ Here you can find a list of themes, how they look like and you have a small link
 
 ![Star Wars](images/star-wars.png)
 
-> Details: [Star Wars](themes/star-wars.md)
+> Details: [Star Wars](themes/Star-Wars.md)
 
 ### retrowave
 
