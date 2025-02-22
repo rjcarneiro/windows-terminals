@@ -1,6 +1,6 @@
 # Fallout PipBoy
 
-![Hackerman](../images/erzx78vez1051.png)
+![Fallout PipBoy](../images/Fallout_PipBoy-example.jpg)
 
 ## Settings
 
@@ -30,7 +30,7 @@ n/a
 
 ## Background
 
-![Hackerman](../images/xNmzL9d.png)
+![Fallout PipBoy](../images/Fallout_PipBoy.jpg)
 
 ## Color Scheme
 
