@@ -141,3 +141,9 @@ Here you can find a list of themes, how they look like and you have a small link
 
 > Details: [retrowave](themes/retrowave.md)  
 > Reference: https://blog.netnerds.net/2020/07/my-windows-terminal-retro-theme/
+
+### Fallout PipBoy
+
+![Fallout PipBoy](images/Fallout_PipBoy-example.jpg)
+
+> Details: [Fallout PipBoy](themes/Fallout-PipBoy.md)
