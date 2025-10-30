@@ -21,7 +21,7 @@ If you ever find reference to `ms-appdata:///roaming` for Windows Terminal, that
 %LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState
 ```
 
-You can try this out by hit Win+R following the path above. This will be the local user roaming data for Windows Terminal.
+You can try this out by hit Win+R following the path above. This will be the local user roaming data for `Windows Terminal`.
 
 I'll try to aggregate the fonts as much as possible in the [fonts](fonts/) folder.
 
